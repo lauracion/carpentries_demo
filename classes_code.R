@@ -10,3 +10,6 @@ cats <- read.csv(file = "data/feline-data.csv")
 cats
 
 # Exploring Data Frames
+gapminder <- read.csv("data/gapminder-FiveYearData.csv")
+
+# Subsetting Data

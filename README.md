@@ -1,2 +1,2 @@
 # demo
-The Carpentries Demo
+My Carpentries Demo
